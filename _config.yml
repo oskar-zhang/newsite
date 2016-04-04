@@ -1,9 +1,9 @@
 # Site settings
-title: Oskar's Forest
-SEOTitle: Oskar's Forest
+title: Learning Template
+SEOTitle: Learning
 header-img: img/home-bg.jpg
 email: oskarzhang1203@gmail.com
-description: "This is my first bolg"
+description: "This is Oskar's learning Jekyll template"
 keyword: ""
 url: "http://oskarsforest.github.io"              # your host, for absolute URL
 baseurl: "/newsite"         # for example, '/blog' if your blog hosted on 'host/blog'
@@ -12,11 +12,11 @@ baseurl: "/newsite"         # for example, '/blog' if your blog hosted on 'host/
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
+weibo_username:     #huxpro
+zhihu_username:     #huxpro
+github_username:    #huxpro
 #twitter_username:  huxpro
-facebook_username:  huxpro
+facebook_username:  #huxpro
 
 
 
@@ -50,26 +50,26 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: huxblog
+#duoshuo_username: huxblog
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+#duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
 
 
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
+#ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+#ga_domain: huangxuan.me
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Just be myself. Stay focused"
-sidebar-avatar: /img/oskar_zhang.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Just be myself. Stay focused & be patient"
+sidebar-avatar: /img/profile_pic_small.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 

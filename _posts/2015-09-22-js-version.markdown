@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "Hello Lane!"
-subtitle:   "I Love You! Rawrrrrrrrrrrrrrrrrr"
+title:      "Thank you"
+subtitle:   "Thank you Huang Xuan for providing this template and giving me a chance to learn!"
 date:       2016-03-30
-author:     "Oskar"
+author:     "Student"
 header-img: "img/post-bg-js-version.jpg"
 tags:
     - 前端开发
@@ -11,6 +11,7 @@ tags:
     - 翻译
 ---
 
+> [Please visit the website of this theme's programmer](http://huangxuan.me/)
 
 JavaScript 有着很奇怪的命名史。
 
